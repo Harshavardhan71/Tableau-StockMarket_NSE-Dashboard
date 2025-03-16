@@ -1,2 +1,2 @@
-# StockMarket_NSE-Dashboard-Tableau
+# Tableau : StockMarket_NSE-Dashboard
 Data Source : Kaggle
